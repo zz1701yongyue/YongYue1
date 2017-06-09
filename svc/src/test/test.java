@@ -15,6 +15,10 @@ public class test {
 	public static void main(String[] args) {
 		System.out.println("AAAAAAA");
 		 System.out.println("AAAAAA");
+		 show();
 	}
 	private int a;
+	public static String show() {
+		return "我是俊俊";
+	}
 }
