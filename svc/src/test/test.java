@@ -24,4 +24,7 @@ public class test {
 	public static void aaa() {
 		System.out.println("¿¡¿¡ÕæÃÀÀö");
 	}
+	public void say(){
+		System.out.println("¹¢bc");
+	}
 }
