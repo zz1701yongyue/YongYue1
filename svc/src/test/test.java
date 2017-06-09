@@ -21,4 +21,7 @@ public class test {
 	public static String show() {
 		return "æˆ‘æ˜¯ä¿Šä¿Š";
 	}
+	public static void aaa() {
+		System.out.println("¿¡¿¡ÕæÃÀÀö");
+	}
 }
