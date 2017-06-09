@@ -13,7 +13,7 @@ public class test {
 		System.out.println("hello word");
 	}
 	public static void main(String[] args) {
-		
+		System.out.println("—Û—Û≥‘≥‘≥‘≥‘");
 		 
 	}
 
