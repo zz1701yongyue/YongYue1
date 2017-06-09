@@ -7,14 +7,14 @@ public class test {
 		return x+y;
 	}
 	public static void fang() {
-		System.out.println("1");
+		System.out.println("A");
 	}
 	public static void print() {
-		System.out.println("hello word");
+		System.out.println("AAAAAAA");
 	}
 	public static void main(String[] args) {
-		System.out.println("—Û—Û≥‘≥‘≥‘≥‘");
-		 System.out.println("wenjianing  chichichi");
+		System.out.println("AAAAAAA");
+		 System.out.println("AAAAAA");
 	}
 
 }
