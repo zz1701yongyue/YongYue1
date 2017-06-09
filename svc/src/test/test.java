@@ -1,5 +1,8 @@
 package test;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class test {
 	public static int  sum() {
 		int x=10;
@@ -21,4 +24,5 @@ public class test {
 	public static String show() {
 		return "我是俊俊";
 	}
+	Set set=new HashSet();
 }
