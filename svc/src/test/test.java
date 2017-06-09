@@ -27,5 +27,6 @@ public class test {
 	Set set=new HashSet();
 	public static void print1() {
 		System.out.println("¿¡¿¡Õæ´Ì¼¤");
+		System.out.println("µÎµÎµÎ");
 	}
 }
