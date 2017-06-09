@@ -16,5 +16,5 @@ public class test {
 		System.out.println("AAAAAAA");
 		 System.out.println("AAAAAA");
 	}
-
+	private int a;
 }
