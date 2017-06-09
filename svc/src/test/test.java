@@ -9,8 +9,13 @@ public class test {
 	public static void fang() {
 		System.out.println("1");
 	}
+	public static void print() {
+		System.out.println("hello word");
+	}
 	public static void main(String[] args) {
 		sum();
+		fang();
+		print();
 	}
 
 }
